@@ -54,7 +54,7 @@ public class DrumKit implements MouseListener {
       	 // 12. call the pack() method on the frame.  Run your program. Do you see your drum image?
    	  drum.pack();
    	 // 13. add this mouse listener to drumLabelWithImage
-    	
+//Your working on this! /\ /\ /\
      	 // 18. Add more images to make a drumkit. Remember to add this mouse listener to each one.
 
     }
